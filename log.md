@@ -1,4 +1,9 @@
 # Log
+To do:
+clean up the director and cast 
+
+
+
 Features to add:
 1. include director
 2. incldue actors
@@ -6,3 +11,4 @@ Features to add:
 4. 
 ### May 28:
 Added thumbnails
+Added deterministic director search on Gradio
