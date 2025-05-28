@@ -1,10 +1,5 @@
-# Netflix-Recommender
-Recommending shows up to 2021
-
+# Movie recommender
 This is my practice project based on the wonderful tutorial: [Build a semantic book recommender](https://www.youtube.com/watch?v=Q7mS1VHm3Yw)
-
-### May 28:
-Adding thumbnail picture from TMDB and OMDB for the movies dataset.
-Learn dotenv
+original dataset: [TMDB 5000 movie dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 
