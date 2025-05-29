@@ -14,6 +14,7 @@ Added thumbnails
 Added deterministic director search on Gradio
 
 ### May 29:
+Json dump and load
 Director actors dataset
 Fuzzy search on directors and actors
 
