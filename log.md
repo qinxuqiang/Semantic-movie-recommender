@@ -12,3 +12,8 @@ Features to add:
 ### May 28:
 Added thumbnails
 Added deterministic director search on Gradio
+
+### May 29:
+Director actors dataset
+Fuzzy search on directors and actors
+
