@@ -1,14 +1,11 @@
 # Log
 To do:
-clean up the director and cast 
+Cast multipersion support
 
-
-
-Features to add:
-1. include director
-2. incldue actors
-3. Genre dropdown
-4. 
+Genre dropdown:
+1. Year
+2. Rating
+3. Genre
 ### May 28:
 Added thumbnails
 
@@ -23,9 +20,10 @@ Fuzzy search on directors and cast
 
 for now cast does not support multiple names
 
-genre dropdown
+genre, year dropdown, to test
 
-description improvement
+### May 30:
+to do: description improvement
 
 
 
