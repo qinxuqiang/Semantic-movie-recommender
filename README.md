@@ -1,12 +1,11 @@
-# 📄 Movie Recommender System – Design Document
+#  Design Document: semantic movie recommender
 
 ## 1. Overview
 
 ### 1.1 Purpose
-This document outlines the design of a Movie Recommender System. The goal is to help users discover movies they are likely to enjoy based on past preferences, behavior, and metadata.
-
+This document outlines the design of a Semantic Movie Recommender. The goal is to help users discover movies they are likely to enjoy based on their description of the movie.
 ### 1.2 Scope
-The recommender will serve a web-based or mobile app with features like personalized movie recommendations, search, and filtering. Target users are consumers of streaming platforms.
+Initial dataset: [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data)
 
 ---
 
