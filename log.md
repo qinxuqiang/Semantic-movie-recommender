@@ -1,12 +1,11 @@
 # Log 🪵
 To do:
-Cast multipersion support
+
 design document improvement
 exact match and softmatch
 you might also like?
 display
-
-
+Cast multipersion support
 
 rating dropdown?
 ### May 28:
@@ -23,15 +22,14 @@ Fuzzy search on directors and cast
 
 for now cast does not support multiple names
 
-genre, year dropdown, to test
+genre, year dropdown (Tested on May 30)
 
 ### May 30:
 design document
 
 description improvement
 
-colab environment
-
+nick name improvement
 
 
 
