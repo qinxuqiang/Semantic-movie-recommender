@@ -1,7 +1,12 @@
 # Log 🪵
 To do:
 Cast multipersion support
-design document
+design document improvement
+exact match and softmatch
+you might also like?
+display
+
+
 
 rating dropdown?
 ### May 28:
