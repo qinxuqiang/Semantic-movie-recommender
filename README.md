@@ -5,7 +5,7 @@
 ### 1.1 Purpose
 This document outlines the design of a Semantic Movie Recommender. The goal is to help users discover movies they are likely to enjoy based on their description of the movie.
 ### 1.2 Scope
-Initial dataset: [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data)
+Initial dataset: [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data) 5000 movies from the website The Movie Database
 
 ---
 
