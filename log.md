@@ -1,11 +1,9 @@
-# Log
+# Log 🪵
 To do:
 Cast multipersion support
+design document
 
-Genre dropdown:
-1. Year
-2. Rating
-3. Genre
+rating dropdown?
 ### May 28:
 Added thumbnails
 
@@ -23,7 +21,13 @@ for now cast does not support multiple names
 genre, year dropdown, to test
 
 ### May 30:
-to do: description improvement
+design document
+
+description improvement
+
+
+
+
 
 
 
