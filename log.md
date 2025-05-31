@@ -6,6 +6,7 @@ exact match and softmatch
 you might also like?
 display
 Cast multipersion support
+HF space deployment.
 
 rating dropdown?
 ### May 28:
