@@ -14,10 +14,18 @@ Cast multipersion support
 HF space deployment.
 
 rating dropdown?
-### May 28:
-Added thumbnails
+### Jun 2:
+HF space deployment trail
 
-Added deterministic director search on Gradio
+
+
+
+### May 30:
+design document
+
+description improvement
+
+nick name improvement
 
 ### May 29:
 Json dump and load
@@ -30,12 +38,13 @@ for now cast does not support multiple names
 
 genre, year dropdown (Tested on May 30)
 
-### May 30:
-design document
 
-description improvement
+### May 28:
+Added thumbnails
 
-nick name improvement
+Added deterministic director search on Gradio
+
+
 
 
 
