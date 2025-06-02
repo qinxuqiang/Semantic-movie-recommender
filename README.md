@@ -11,11 +11,11 @@ Initial dataset: [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-met
 
 ## 2. Functional Requirements
 
-- User login/signup and profile management  
-- Rating system (e.g., 1–5 stars or thumbs up/down)  
-- Movie browsing with genres, cast, release year, etc.  
-- Personalized movie recommendations  
-- Trending and popular movies list  
+- Movie browsing with description using semantic similarity
+- Finding directors and actors with fuzzy search
+- Movie browsing with genre and release year
+- Trending and popular movies list
+- Personalized movie functionality
 - Search functionality  
 - Watchlist feature  
 
@@ -82,44 +82,13 @@ Initial dataset: [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-met
 
 ---
 
-## 8. Storage
-
-- **User Data**: PostgreSQL or MongoDB  
-- **Movie Metadata**: PostgreSQL or Elasticsearch  
-- **Logs**: Amazon S3 or BigQuery  
-- **Model Store**: MLflow or custom artifact store  
-
----
-
-## 9. APIs
-
-| Endpoint           | Method | Description                      |
-|--------------------|--------|----------------------------------|
-| `/recommend`       | GET    | Get personalized recommendations |
-| `/rate`            | POST   | Submit movie rating              |
-| `/search`          | GET    | Search for movies                |
-| `/movie/<id>`      | GET    | Get movie details                |
-| `/trending`        | GET    | Show trending movies             |
-
----
-
-## 10. Evaluation Metrics
+## 8. Evaluation Metrics
 
 - RMSE / MAE (for explicit ratings)  
 - Precision@K / Recall@K / NDCG  
 - Coverage, Diversity, Serendipity  
 - A/B testing for online performance  
 
----
-
-## 11. Deployment Plan
-
-- Containerized services (Docker)  
-- Kubernetes for orchestration  
-- CI/CD with GitHub Actions  
-- Monitoring: Prometheus + Grafana  
-
----
 
 ## 12. Future Work
 
