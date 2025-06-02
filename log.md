@@ -2,10 +2,15 @@
 To do:
 
 design document improvement
+
 exact match and softmatch
+
 you might also like?
+
 display
+
 Cast multipersion support
+
 HF space deployment.
 
 rating dropdown?
