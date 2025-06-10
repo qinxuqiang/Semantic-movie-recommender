@@ -1,5 +1,9 @@
 # Log 🪵
 To do:
+Fetching new movies
+
+Adding new movies to the dataset?
+
 
 design document improvement
 
@@ -14,6 +18,9 @@ Cast multipersion support
 HF space deployment.
 
 rating dropdown?
+
+
+
 ### Jun 2:
 HF space deployment trail
 
