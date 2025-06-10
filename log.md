@@ -2,8 +2,6 @@
 To do:
 Fetching new movies
 
-Adding new movies to the dataset?
-
 
 design document improvement
 
@@ -19,6 +17,8 @@ HF space deployment.
 
 rating dropdown?
 
+### Jun 10:
+Create dataset TMDB 2000, adding 2000 newer movies (date ranging from Jan 2022 to Jun 2025)
 
 
 ### Jun 2:
