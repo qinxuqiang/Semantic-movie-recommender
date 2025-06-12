@@ -5,7 +5,8 @@
 ### 1.1 Purpose
 This document outlines the design of a Semantic Movie Recommender. The goal is to help users discover movies they are likely to enjoy based on their description of the movie.
 ### 1.2 Scope
-Initial dataset: [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data) 5000 movies from the website The Movie Database
+Initial dataset: [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data) 5000 movies from the website The Movie Database, up to 2021.
+Additional dataset: [TMDB_2k_since_2021](https://www.kaggle.com/datasets/qinxuqiang/tmdb-2k-since-2021) additional 2k movies since 2021, created by my self.
 
 ---
 
@@ -14,14 +15,11 @@ Initial dataset: [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-met
 - Movie browsing with description using semantic similarity
 - Finding directors and actors with fuzzy search
 - Movie browsing with genre and release year
-- Trending and popular movies list
-- Personalized movie functionality
-- Search functionality  
-- Watchlist feature  
+
 
 ---
 
-## 3. Non-Functional Requirements
+<-## 3. Non-Functional Requirements
 
 - Low-latency recommendation generation  
 - Scalable to millions of users and movies  
@@ -30,7 +28,7 @@ Initial dataset: [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-met
 - Modular and extensible architecture  
 
 ---
-
+->
 ## 4. System Architecture
 
 ### 4.1 High-Level Diagram
@@ -53,6 +51,8 @@ Initial dataset: [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-met
 ---
 
 ## 6. Recommendation Algorithms
+
+### 6.1 
 
 ### 6.1 Collaborative Filtering (CF)
 - **User-Based CF**: Recommend based on similar users  
