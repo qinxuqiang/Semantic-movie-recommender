@@ -17,6 +17,12 @@ HF space deployment.
 
 rating dropdown?
 
+### Jun 16
+Integrated the recommendation function into a chatbot! Runs now on Gradio, needs a little bit tinkering
+
+Deployment on Hugging Space not successful yet, seemingly due to the Lang Graph structure.
+
+
 ### Jun 10:
 Create dataset TMDB 2000, adding 2000 newer movies (date ranging from Jan 2022 to Jun 2025)
 
