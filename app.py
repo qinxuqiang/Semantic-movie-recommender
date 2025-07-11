@@ -26,7 +26,7 @@ embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-
                                    model_kwargs={'device': 'cuda'},    
                                    encode_kwargs={'normalize_embeddings': True})
 vectorstore=FAISS.load_local("faiss_index",embeddings,allow_dangerous_deserialization=True)
-movies=pd.read_csv('movies.csv')
+movies=pd.read_csv('movies_rec_db.csv')
 
 json_columns=['keywords_cleaned',
               'production_countries_cleaned',
